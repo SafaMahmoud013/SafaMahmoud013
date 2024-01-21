@@ -1,7 +1,7 @@
 
 ## Android Architect | Building Engaging Experiences Since 20XX
 
-Hi there! I'm Safa Mahmoud (@SafaMahmoud013), an Android architect with a passion for crafting intuitive and engaging mobile experiences for diverse users. With over X years of experience under my belt, I've honed my skills in Java, Kotlin, and modern development tools to tackle complex projects and deliver seamless solutions.
+Hi there! I'm Safa Mahmoud (@SafaMahmoud013), an Android architect with a passion for crafting intuitive and engaging mobile experiences for diverse users. With over 4 years of experience under my belt, I've honed my skills in Java, Kotlin, and modern development tools to tackle complex projects and deliver seamless solutions.
 
 ## Expertise:
 Building robust, high-performance apps: From architecture to native UI, I excel in crafting stable and efficient applications.
